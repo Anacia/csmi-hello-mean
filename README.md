@@ -1,6 +1,6 @@
 # Mon premier projet
 
-$$\bar{x}=\frac{1}{n} \sum{i=0}^n x_i$$
+$$\bar{x}=\frac{1}{n} \sum{i=0}^{n} x_i$$
 ## Compilation
 
 ```
