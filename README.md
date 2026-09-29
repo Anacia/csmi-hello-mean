@@ -1,6 +1,6 @@
 # Mon premier projet
 
-Calcul de la moyenne de valeurs dans un vecteur
+Calcul de la moyenne des valeurs d'un vecteur
 $$\bar{x}=\frac{1}{n} \sum_{i=0}^{n} x_i$$
 ## Compilation
 
